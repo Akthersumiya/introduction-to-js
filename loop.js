@@ -119,10 +119,10 @@
 // console.log("Min number:", min);
     
 
-const number = [1,2,3,4,5,6,7];
-let reverse = [];
-for(let i = number.length-1; i>=0; i--){
-    reverse.push(number[i])
-}
+// const number = [1,2,3,4,5,6,7];
+// let reverse = [];
+// for(let i = number.length-1; i>=0; i--){
+//     reverse.push(number[i])
+// }
 
-console.log(reverse);
+// console.log(reverse);
